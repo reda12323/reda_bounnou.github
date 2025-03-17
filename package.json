@@ -1,5 +1,4 @@
 {
-  "homepage": "https://reda12323.github.io/reda_bounnou.github",
   "name": "my-app-saas",
   "version": "0.1.0",
   "private": true,
@@ -29,8 +28,6 @@
     "zod": "^3.23.8"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

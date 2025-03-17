@@ -11,11 +11,9 @@ function ProtectedRoute({ children }) {
     }
 
     if (!isSignedIn) {
-        // Redirect to sign-in page with the original path as a query parameter
+        
         return <Navigate to={`/signin?redirectUrl=${location.pathname}`} replace />;
     }
-
-    // Render the protected content if signed in
     return children;
 }
 
