@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reda_bounnou/static/css/main.9ce83958.css",
-    "main.js": "/reda_bounnou/static/js/main.354d6fa7.js",
-    "static/js/453.1ff99365.chunk.js": "/reda_bounnou/static/js/453.1ff99365.chunk.js",
-    "index.html": "/reda_bounnou/index.html",
-    "main.9ce83958.css.map": "/reda_bounnou/static/css/main.9ce83958.css.map",
-    "main.354d6fa7.js.map": "/reda_bounnou/static/js/main.354d6fa7.js.map",
-    "453.1ff99365.chunk.js.map": "/reda_bounnou/static/js/453.1ff99365.chunk.js.map"
+    "main.css": "/static/css/main.9ce83958.css",
+    "main.js": "/static/js/main.5487d75d.js",
+    "static/js/453.1ff99365.chunk.js": "/static/js/453.1ff99365.chunk.js",
+    "index.html": "/index.html",
+    "main.9ce83958.css.map": "/static/css/main.9ce83958.css.map",
+    "main.5487d75d.js.map": "/static/js/main.5487d75d.js.map",
+    "453.1ff99365.chunk.js.map": "/static/js/453.1ff99365.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ce83958.css",
-    "static/js/main.354d6fa7.js"
+    "static/js/main.5487d75d.js"
   ]
 }
